@@ -13,6 +13,7 @@ public class fungsi {
         NamaKu.resti("Resti noor f");
         NamaKu.resti("Jafar");
         hasil.printNama("ini beda package");
+        hasil.printNama("Contoh git");
 
         tambah(x,y);
         tambah(x,z);
