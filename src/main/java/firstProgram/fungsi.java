@@ -12,6 +12,8 @@ public class fungsi {
 
         NamaKu.resti("Resti noor f");
         NamaKu.resti("Jafar");
+        NamaKu.resti("ini class nama");
+
         hasil.printNama("ini beda package");
         hasil.printNama("Contoh git");
 
